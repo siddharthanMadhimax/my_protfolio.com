@@ -816,6 +816,34 @@ input,textarea{
         width: 100vw;
         padding: 2.5rem;
     }
+    .services_container{
+        width: 400px;
+    }
+    .services_container .section_title,.section_description{
+        margin-left: 70px;
+        align-items: center;
+        width: 100%;
+    }
+    .section_title{
+        margin-left: 100px;
+    }
+    .services_container{
+        margin-left: 60px;
+    }
+    .services_container .section_description{
+        margin-left: 100px;
+        width: 100%;
+        
+    }
+    .services_container .section_title{
+        margin-left: 120px;
+    }
+    .project{
+        background-color: transparent;
+    }
+    .project_container{
+        margin-left:40px;
+    }
     .home_image{
         /* width: 26px;
         height: 260px; */
